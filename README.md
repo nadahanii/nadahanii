@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's up?<br> My name is Nada Hani</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
 - 🌱 I’m currently learning **Embedded Systems and Mobile Application Development using Flutter**
 
