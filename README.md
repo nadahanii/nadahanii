@@ -1,11 +1,11 @@
-<h1 align="center">Hey Hey 👋 What's up? My name is Nada Hani</h1>
+<h1 align="center">Hey 👋 What's up?<br> My name is Nada Hani</h1>
 <h3 align="center">A Software Developer</h3>
 
 - 🌱 I’m currently learning **Embedded Systems and Mobile Application Development using Flutter**
 
 - ✨ creating bugs since **2018**
 
-- 🎯 Goals **Utilize my knowledge in Software Development. And gain more experience in creating maintainable and well structured code.**
+- 🎯 Goals **Utilize my knowledge in Software Development.<br>And gain more experience in creating maintainable and well structured code.**
 
 - 📫 Contact me **nadahani24@gmail.com**
 
