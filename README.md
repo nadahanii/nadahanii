@@ -5,7 +5,7 @@
 
 - ✨ creating bugs since **2018**
 
-- 🎯 Goals **Utilize my knowledge in Software Development.<br>And gain more experience in creating maintainable and well structured code.**
+- 🎯 My Goals are to **Utilize my knowledge in Software Development.<br>And gain more experience in creating maintainable and well structured code.**
 
 - 📫 Contact me **nadahani24@gmail.com**
 
