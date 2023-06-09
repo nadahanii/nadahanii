@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?<br> My name is Nada Hani</h1>
 <h3 align="left">I'm a Software Developer</h3>
 
-- 🌱 I’m currently learning **Embedded Systems and Mobile Application Development using Flutter**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - ✨ creating bugs since **2018**
 
