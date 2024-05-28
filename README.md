@@ -1,11 +1,11 @@
 <h1 align="left">Hey 👋 What's up?<br> My name is Nada Hani</h1>
 <h3 align="left">I'm a Software Developer</h3>
 
-- 🌱 I’m currently learning **Embedded Systems**
+- 🌱 I’m currently learning how to to utilize my knowledge in software development and gain more experience in creating maintainable and well-structured code.
 
 - ✨ creating bugs since **2018**
 
-- 🎯 My Goals are to **Utilize my knowledge in Software Development.<br>And gain more experience in creating maintainable and well structured code.**
+- 🎯 My Goals are to **Utilize my knowledge in Software Development.<br>And gain more experience in creating maintainable and well-structured code.**
 
 - 📫 Contact me **nadahani24@gmail.com**
 
